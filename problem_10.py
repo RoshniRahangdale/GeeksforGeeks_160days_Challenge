@@ -1,3 +1,5 @@
+# problem 10:Kadane's Algorithm
+# Given an integer array arr[]. You need to find the maximum sum of a subarray.
 def maxSubarraySum(arr):
     res=arr[0]
     maxEnding=arr[0]
